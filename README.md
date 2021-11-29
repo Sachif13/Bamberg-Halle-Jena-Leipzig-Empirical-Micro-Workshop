@@ -1,7 +1,14 @@
 
 ## 12<sup>th</sup> Workshop on Empirical Microeconomics and Applied Econometrics
 ![image](Sachif13/EMAE/MLU-logo.png)
-### Markdown
+
+## Workshop programme 
+
+## Workshop venue 
+Online
+
+## Workshop organiser 
+Chair of Econometrics and Empirical Economic Research/Martin Luther University Halle-Wittenberg
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
