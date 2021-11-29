@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bamberh Halle Jena Leipzig Empirical Microeconomics and Applied Econometrics Doctoral Workshops 
 
 You can use the [editor on GitHub](https://github.com/Sachif13/Bamberg-Halle-Jena-Leipzig-Empirical-Micro-Workshop/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
