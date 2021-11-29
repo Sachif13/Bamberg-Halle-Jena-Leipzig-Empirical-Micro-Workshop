@@ -1,6 +1,6 @@
 
+![image](/EMAE/docs/assets/MLU-logo.png)
 ## 12<sup>th</sup> Workshop on Empirical Microeconomics and Applied Econometrics
-![image](Sachif13/EMAE/MLU-logo.png)
 
 #### Workshop programme 
 [Download](https://github.com/Sachif13/EMAE/blob/main/Current%20workshop/Test%20PDF.pdf)
