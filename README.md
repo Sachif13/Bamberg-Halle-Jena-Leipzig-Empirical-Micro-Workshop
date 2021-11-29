@@ -28,4 +28,4 @@ The aim of this workshop is to bring together junior researchers from the cooper
 * [Prof. Dr. Christoph Wunder](https://oekonometrie.wiwi.uni-halle.de/team/prof._dr._christoph_wunder/)
 
 
-![image](/EMAE/docs/assets/All-uni-logos.png)
+
