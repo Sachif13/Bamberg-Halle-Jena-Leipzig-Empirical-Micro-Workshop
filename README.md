@@ -1,4 +1,4 @@
-![MLU logo](/assets/MLU logo.png)
+![MLU logo](Sachif13/EMAE/docs/assets/MLU logo.png)
 ## 12<sup>th</sup> Workshop on Empirical Microeconomics and Applied Econometrics
 
 ### Markdown
