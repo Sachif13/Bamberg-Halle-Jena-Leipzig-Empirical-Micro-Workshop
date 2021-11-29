@@ -1,5 +1,4 @@
-## 12th Bamberg-Halle-Jena-Leipzig Workshop on
-## Empirical Microeconomics and Applied Econometrics 
+### 12th Bamberg-Halle-Jena-Leipzig Workshop on Empirical Microeconomics and Applied Econometrics 
 
 You can use the [editor on GitHub](https://github.com/Sachif13/Bamberg-Halle-Jena-Leipzig-Empirical-Micro-Workshop/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
