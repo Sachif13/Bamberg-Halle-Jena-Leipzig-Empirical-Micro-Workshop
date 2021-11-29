@@ -6,7 +6,7 @@ The aim of this workshop is to bring together researchers from the cooperating c
 
 
 #### Workshop date and time
-* 2021.12.10,  9.00am to 6.00pm
+* 2021.12.10,  9.00am to 4.15pm
 
 #### Workshop programme 
 * [Download](https://github.com/Sachif13/EMAE/blob/main/Current%20workshop/EMAE-Workshop-2021-12-10.pdf)
