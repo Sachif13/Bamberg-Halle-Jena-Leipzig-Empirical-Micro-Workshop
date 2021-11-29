@@ -1,6 +1,6 @@
 
 ## 12<sup>th</sup> Workshop on Empirical Microeconomics and Applied Econometrics
-![MLU logo](Sachif13/EMAE/MLU-logo.png)
+![image](Sachif13/EMAE/MLU-logo.png)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
