@@ -1,5 +1,5 @@
 
-![image](/EMAE/docs/assets/All-uni-logos.png)
+![image](/EMAE/docs/assets/All-uni-logos2.png)
 ## 12<sup>th</sup> Workshop on Empirical Microeconomics and Applied Econometrics
 
 The aim of this workshop is to bring together researchers from the cooperating chairs at the Universities of Bamberg, Halle, Jena and Leipzig who do work in applied microeconomics and empirical econometrics.
