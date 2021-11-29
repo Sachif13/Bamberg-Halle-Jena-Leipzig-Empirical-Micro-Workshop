@@ -1,15 +1,15 @@
 
-![image](/EMAE/docs/assets/MLU-logo.png)
+![image](/EMAE/docs/assets/All-uni-logos.png)
 ## 12<sup>th</sup> Workshop on Empirical Microeconomics and Applied Econometrics
 
-The aim of this workshop is to bring together junior researchers from the cooperating chairs at the Universities of Bamberg, Halle, Jena and Leipzig who do work in applied microeconomics and empirical econometrics.
+The aim of this workshop is to bring together researchers from the cooperating chairs at the Universities of Bamberg, Halle, Jena and Leipzig who do work in applied microeconomics and empirical econometrics.
 
 
 #### Workshop date and time
 * 2021.12.10,  9.00am to 6.00pm
 
 #### Workshop programme 
-* [Download](https://github.com/Sachif13/EMAE/blob/main/Current%20workshop/Test%20PDF.pdf)
+* [Download](https://github.com/Sachif13/EMAE/blob/main/Current%20workshop/EMA-Workshop-2021-12-10.pdf)
 
 
 #### Workshop venue 
