@@ -3,12 +3,16 @@
 ![image](Sachif13/EMAE/MLU-logo.png)
 
 #### Workshop programme 
+[Download](https://github.com/Sachif13/EMAE/blob/main/Current%20workshop/Test%20PDF.pdf)
 
 #### Workshop venue 
 Online
 
 #### Workshop organiser 
 Chair of Econometrics and Empirical Economic Research/Martin Luther University Halle-Wittenberg
+
+#### Programmes from past workshops 
+[Download](https://github.com/Sachif13/EMAE/tree/main/Past%20workshops)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
