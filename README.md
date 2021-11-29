@@ -6,7 +6,7 @@
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-# Current workshop programme [Link](https://github.com/Sachif13/EMAE/blob/main/Current%20workshop/Test%20PDF.pdf)
+# Current workshop programme [Link]
 ## Header 2
 ### Header 3
 
