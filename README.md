@@ -9,7 +9,7 @@ The aim of this workshop is to bring together researchers from the cooperating c
 * 2021.12.10,  9.00am to 6.00pm
 
 #### Workshop programme 
-* [Download](https://github.com/Sachif13/EMAE/blob/main/Current%20workshop/EMA-Workshop-2021-12-10.pdf)
+* [Download](https://github.com/Sachif13/EMAE/blob/main/Current%20workshop/EMAE-Workshop-2021-12-10.pdf)
 
 
 #### Workshop venue 
@@ -25,7 +25,7 @@ The aim of this workshop is to bring together researchers from the cooperating c
 
 
 #### Contact
-* [Prof. Dr. Christoph Wunder](https://oekonometrie.wiwi.uni-halle.de/team/prof._dr._christoph_wunder/)
+* christoph.wunder[AT]wiwi.uni-halle.de
 
 
 
